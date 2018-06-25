@@ -1,0 +1,56 @@
+
+ m_n: 2000 ... p: 50 ... e=3 ... rate=0.20 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 6.8109	0.0214	0.0213
+SD  : 3.8239	0.1142	0.1141
+MAE : 6.8295	0.1056	0.1056
+RMSE: 7.8109	0.1161	0.1161
+
+ m_n: 2000 ... p: 50 ... e=3 ... rate=0.80 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 51.6557	-0.0799	-0.0809
+SD  : 2.0980	0.1267	0.1266
+MAE : 51.6557	 0.1124	 0.1128
+RMSE: 51.6983	 0.1498	 0.1503
+
+ m_n: 2000 ... p: 100 ... e=3 ... rate=0.20 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 20.4856	 0.0591	 0.0591
+SD  : 6.5541	0.0903	0.0903
+MAE : 20.4856	 0.0994	 0.0994
+RMSE: 21.5085	 0.1079	 0.1079
+
+ m_n: 2000 ... p: 100 ... e=3 ... rate=0.80 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 146.1365	  0.0111	  0.0109
+SD  : 12.5567	 0.1407	 0.1407
+MAE : 146.1365	  0.1216	  0.1217
+RMSE: 146.6750	  0.1412	  0.1412
+
+ m_n: 5000 ... p: 50 ... e=3 ... rate=0.20 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 7.3216	-0.0395	-0.0395
+SD  : 1.6763	0.0697	0.0697
+MAE : 7.3216	0.0693	0.0693
+RMSE: 7.5111	0.0801	0.0801
+
+ m_n: 5000 ... p: 50 ... e=3 ... rate=0.80 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 51.7615	-0.0070	-0.0074
+SD  : 1.6166	0.0974	0.0974
+MAE : 51.7615	 0.0864	 0.0864
+RMSE: 51.7867	 0.0977	 0.0977
+
+ m_n: 5000 ... p: 100 ... e=3 ... rate=0.20 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 18.4049	-0.0102	-0.0102
+SD  : 3.4709	0.0765	0.0765
+MAE : 18.4049	 0.0671	 0.0671
+RMSE: 18.7293	 0.0772	 0.0772
+
+ m_n: 5000 ... p: 100 ... e=3 ... rate=0.80 ... t_rate=1.00 
+ATE_naive, ATE_dcb, ATE_dcb_regression
+Bias: 146.4231	  0.0572	  0.0571
+SD  : 7.3162	0.0642	0.0642
+MAE : 146.4231	  0.0666	  0.0666
+RMSE: 146.6058	  0.0860	  0.0859
